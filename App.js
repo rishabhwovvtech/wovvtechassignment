@@ -34,7 +34,7 @@ class App extends Component {
     );
   };
 }
-
+this.state.storyData
 
 export default App;
 
